@@ -1,4 +1,4 @@
 module.exports = {
-    liveUrl:"https://different-glasses-eel.cyclic.app",
+    liveUrl:"https://supplybuy-analytics.cyclic.app",
     localUrl:"http://localhost:5000"
 }
